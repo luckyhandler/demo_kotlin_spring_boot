@@ -1,0 +1,2837 @@
+[
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Palo Alto",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-palo-alto/",
+    "relative_url": "/gdg-cloud-palo-alto/",
+    "city": "Palo Alto"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/IMG_0496.JPG",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_0496.JPG",
+      "path": "chapter_banners/IMG_0496.JPG"
+    },
+    "title": "GDG Cloud Silicon Valley",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-silicon-valley/",
+    "relative_url": "/gdg-cloud-silicon-valley/",
+    "city": "Mountain View"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Silicon Valley",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-silicon-valley/",
+    "relative_url": "/gdg-silicon-valley/",
+    "city": "Mountain View"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/IMG_0651.JPG",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_0651.JPG",
+      "path": "chapter_banners/IMG_0651.JPG"
+    },
+    "title": "GDG Fremont",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-fremont/",
+    "relative_url": "/gdg-fremont/",
+    "city": "Fremont"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Santa Clara",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-santa-clara/",
+    "relative_url": "/gdg-santa-clara/",
+    "city": "Santa Clara"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/IMG_0324.JPG",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_0324.JPG",
+      "path": "chapter_banners/IMG_0324.JPG"
+    },
+    "title": "GDG Cloud Fremont",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-fremont/",
+    "relative_url": "/gdg-cloud-fremont/",
+    "city": "Fremont"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Santa Clara",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-santa-clara/",
+    "relative_url": "/gdg-cloud-santa-clara/",
+    "city": "Santa Clara"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud San Jose",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-san-jose/",
+    "relative_url": "/gdg-cloud-san-jose/",
+    "city": "San Jose"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG San Jose",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-san-jose/",
+    "relative_url": "/gdg-san-jose/",
+    "city": "San Jose"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Oakland",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-oakland/",
+    "relative_url": "/gdg-cloud-oakland/",
+    "city": "Oakland"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/IMG_20190126_110239.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_20190126_110239.jpg",
+      "path": "chapter_banners/IMG_20190126_110239.jpg"
+    },
+    "title": "GDG Cloud San Francisco",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-san-francisco/",
+    "relative_url": "/gdg-cloud-san-francisco/",
+    "city": "San Francisco"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/DSCN0496.JPG",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/DSCN0496.JPG",
+      "path": "chapter_banners/DSCN0496.JPG"
+    },
+    "title": "GDG San Francisco",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-san-francisco/",
+    "relative_url": "/gdg-san-francisco/",
+    "city": "San Francisco"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG San Francisco Android",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-san-francisco-android/",
+    "relative_url": "/gdg-san-francisco-android/",
+    "city": "San Francisco"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/googleio2018.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/googleio2018.jpeg",
+      "path": "chapter_banners/googleio2018.jpeg"
+    },
+    "title": "GDG Berkeley",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-berkeley/",
+    "relative_url": "/gdg-berkeley/",
+    "city": "Berkeley"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Sonoma",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-sonoma/",
+    "relative_url": "/gdg-sonoma/",
+    "city": "Petaluma"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Modesto",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-modesto/",
+    "relative_url": "/gdg-modesto/",
+    "city": "Modesto"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Sacramento",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-sacramento/",
+    "relative_url": "/gdg-sacramento/",
+    "city": "Sacramento"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Fresno",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-fresno/",
+    "relative_url": "/gdg-fresno/",
+    "city": "Fresno"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "Women Techmakers Fresno",
+    "country": "US",
+    "url": "https://gdg.community.dev/women-techmakers-fresno/",
+    "relative_url": "/women-techmakers-fresno/",
+    "city": "Fresno"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Visalia",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-visalia/",
+    "relative_url": "/gdg-visalia/",
+    "city": "Visalia"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Redding",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-redding/",
+    "relative_url": "/gdg-redding/",
+    "city": "Redding"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Chapter%2520lockup%2520-%2520GDG%2520San%2520Fernando%2520Valley.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Chapter%2520lockup%2520-%2520GDG%2520San%2520Fernando%2520Valley.png",
+      "path": "chapter_banners/GDG Chapter lockup - GDG San Fernando Valley.png"
+    },
+    "title": "GDG San Fernando Valley",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-san-fernando-valley/",
+    "relative_url": "/gdg-san-fernando-valley/",
+    "city": "Sherman Oaks"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Los Angeles",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-los-angeles/",
+    "relative_url": "/gdg-los-angeles/",
+    "city": "Los Angeles"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/_official_gdg_chapter_lockup_gdg_silicon_beach.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/_official_gdg_chapter_lockup_gdg_silicon_beach.png",
+      "path": "chapter_banners/_official_gdg_chapter_lockup_gdg_silicon_beach.png"
+    },
+    "title": "GDG Silicon Beach",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-silicon-beach/",
+    "relative_url": "/gdg-silicon-beach/",
+    "city": "Venice"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Pasadena",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-pasadena/",
+    "relative_url": "/gdg-cloud-pasadena/",
+    "city": "Pasadena"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Los Angeles",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-los-angeles/",
+    "relative_url": "/gdg-cloud-los-angeles/",
+    "city": "Los Angeles"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/MVIMG_20190710_185429_4lJGG19.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/MVIMG_20190710_185429_4lJGG19.jpg",
+      "path": "chapter_banners/MVIMG_20190710_185429_4lJGG19.jpg"
+    },
+    "title": "GDG Los Angeles Android",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-los-angeles-android/",
+    "relative_url": "/gdg-los-angeles-android/",
+    "city": "Los Angeles"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud OC",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-oc/",
+    "relative_url": "/gdg-cloud-oc/",
+    "city": "Irvine"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Henderson",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-henderson/",
+    "relative_url": "/gdg-henderson/",
+    "city": "Henderson"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/san%2520diego.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/san%2520diego.jpg",
+      "path": "chapter_banners/san diego.jpg"
+    },
+    "title": "GDG San Diego",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-san-diego/",
+    "relative_url": "/gdg-san-diego/",
+    "city": "San Diego"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Portland",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-portland/",
+    "relative_url": "/gdg-portland/",
+    "city": "Portland"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Portland",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-portland/",
+    "relative_url": "/gdg-cloud-portland/",
+    "city": "Portland"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Salt Lake",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-salt-lake/",
+    "relative_url": "/gdg-salt-lake/",
+    "city": "South Jordan"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Silicon Slopes",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-silicon-slopes/",
+    "relative_url": "/gdg-silicon-slopes/",
+    "city": "Lehi"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Phoenix",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-phoenix/",
+    "relative_url": "/gdg-phoenix/",
+    "city": "Phoenix"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Phoenix",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-phoenix/",
+    "relative_url": "/gdg-cloud-phoenix/",
+    "city": "Phoenix"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Seattle",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-seattle/",
+    "relative_url": "/gdg-seattle/",
+    "city": "Seattle"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Bellevue",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-bellevue/",
+    "relative_url": "/gdg-bellevue/",
+    "city": "Bellevue"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Bellevue",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-bellevue/",
+    "relative_url": "/gdg-cloud-bellevue/",
+    "city": "Bellevue"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Tucson",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-tucson/",
+    "relative_url": "/gdg-cloud-tucson/",
+    "city": "Tucson"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Tucson",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-tucson/",
+    "relative_url": "/gdg-tucson/",
+    "city": "Tucson"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Spokane",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-spokane/",
+    "relative_url": "/gdg-spokane/",
+    "city": "Spokane"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Victoria",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-victoria/",
+    "relative_url": "/gdg-victoria/",
+    "city": "Victoria"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Missoula",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-missoula/",
+    "relative_url": "/gdg-missoula/",
+    "city": "Missoula"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/gdg-bzn-textonly_1saqws7.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg-bzn-textonly_1saqws7.png",
+      "path": "chapter_banners/gdg-bzn-textonly_1saqws7.png"
+    },
+    "title": "GDG Bozeman",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-bozeman/",
+    "relative_url": "/gdg-bozeman/",
+    "city": "Bozeman"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Surrey",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-surrey/",
+    "relative_url": "/gdg-surrey/",
+    "city": "Surrey"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Richmond",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-richmond/",
+    "relative_url": "/gdg-richmond/",
+    "city": "Richmond"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Burnaby",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-burnaby/",
+    "relative_url": "/gdg-burnaby/",
+    "city": "Burnaby"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Vancouver",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-vancouver/",
+    "relative_url": "/gdg-vancouver/",
+    "city": "Vancouver"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Vancouver",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-cloud-vancouver/",
+    "relative_url": "/gdg-cloud-vancouver/",
+    "city": "Vancouver"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Hermosillo",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-hermosillo/",
+    "relative_url": "/gdg-hermosillo/",
+    "city": "Hermosillo"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Boulder",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-boulder/",
+    "relative_url": "/gdg-boulder/",
+    "city": "Boulder"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Denver",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-denver/",
+    "relative_url": "/gdg-cloud-denver/",
+    "city": "Denver"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Northern Colorado - Android/Chrome",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-northern-colorado-androidchrome/",
+    "relative_url": "/gdg-northern-colorado-androidchrome/",
+    "city": "Fort Collins"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/gdg-event-denver.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg-event-denver.jpeg",
+      "path": "chapter_banners/gdg-event-denver.jpeg"
+    },
+    "title": "GDG Denver",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-denver/",
+    "relative_url": "/gdg-denver/",
+    "city": "Denver"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/Artboard%25201.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Artboard%25201.png",
+      "path": "chapter_banners/Artboard 1.png"
+    },
+    "title": "GDG Cloud Calgary",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-cloud-calgary/",
+    "relative_url": "/gdg-cloud-calgary/",
+    "city": "Calgary"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Navojoa",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-navojoa/",
+    "relative_url": "/gdg-navojoa/",
+    "city": "Navojoa"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG St. Albert",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-st-albert/",
+    "relative_url": "/gdg-st-albert/",
+    "city": "St. Albert"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/Edmonton.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Edmonton.jpeg",
+      "path": "chapter_banners/Edmonton.jpeg"
+    },
+    "title": "GDG Cloud Edmonton",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-cloud-edmonton/",
+    "relative_url": "/gdg-cloud-edmonton/",
+    "city": "Edmonton"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/PuenteNegro.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/PuenteNegro.jpeg",
+      "path": "chapter_banners/PuenteNegro.jpeg"
+    },
+    "title": "GDG Culiac\\u00e1n",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-culiacan/",
+    "relative_url": "/gdg-culiacan/",
+    "city": "Culiac\\u00e1n"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/Copy%2520of%2520GDG-Cloud-OKC.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Copy%2520of%2520GDG-Cloud-OKC.png",
+      "path": "chapter_banners/Copy of GDG-Cloud-OKC.png"
+    },
+    "title": "GDG Cloud OKC",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-okc/",
+    "relative_url": "/gdg-cloud-okc/",
+    "city": "Oklahoma City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG InCode",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-incode/",
+    "relative_url": "/gdg-incode/",
+    "city": "Durango"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/highres_450141067.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/highres_450141067.jpeg",
+      "path": "chapter_banners/highres_450141067.jpeg"
+    },
+    "title": "GDG Omaha",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-omaha/",
+    "relative_url": "/gdg-omaha/",
+    "city": "Omaha"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Dallas",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-dallas/",
+    "relative_url": "/gdg-dallas/",
+    "city": "Dallas"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud DFW",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-dfw/",
+    "relative_url": "/gdg-cloud-dfw/",
+    "city": "Dallas"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud San Antonio",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-san-antonio/",
+    "relative_url": "/gdg-cloud-san-antonio/",
+    "city": "San Antonio"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/highres_471578185.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/highres_471578185.jpeg",
+      "path": "chapter_banners/highres_471578185.jpeg"
+    },
+    "title": "GDG Cloud Austin",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-austin/",
+    "relative_url": "/gdg-cloud-austin/",
+    "city": "Austin"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Austin",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-austin/",
+    "relative_url": "/gdg-austin/",
+    "city": "Austin"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/KC-UnionStation_Web_UmY3iHv.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/KC-UnionStation_Web_UmY3iHv.jpg",
+      "path": "chapter_banners/KC-UnionStation_Web_UmY3iHv.jpg"
+    },
+    "title": "GDG Cloud Kansas City",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-kansas-city/",
+    "relative_url": "/gdg-cloud-kansas-city/",
+    "city": "Kansas City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Kansas City",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-kansas-city/",
+    "relative_url": "/gdg-kansas-city/",
+    "city": "Kansas City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/WomenTechmakers-Winnipeg.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WomenTechmakers-Winnipeg.jpg",
+      "path": "chapter_banners/WomenTechmakers-Winnipeg.jpg"
+    },
+    "title": "GDG Winnipeg",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-winnipeg/",
+    "relative_url": "/gdg-winnipeg/",
+    "city": "Winnipeg"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Monterrey",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-monterrey/",
+    "relative_url": "/gdg-monterrey/",
+    "city": "Monterrey"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Bentonville",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-bentonville/",
+    "relative_url": "/gdg-bentonville/",
+    "city": "Bentonville"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Twin Cities",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-twin-cities/",
+    "relative_url": "/gdg-cloud-twin-cities/",
+    "city": "Minneapolis"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Springfield",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-springfield/",
+    "relative_url": "/gdg-springfield/",
+    "city": "Springfield"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Twin Cities",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-twin-cities/",
+    "relative_url": "/gdg-twin-cities/",
+    "city": "Minneapolis"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Rochester MN",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-rochester-mn/",
+    "relative_url": "/gdg-rochester-mn/",
+    "city": "Rochester"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Zapopan",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-cloud-zapopan/",
+    "relative_url": "/gdg-cloud-zapopan/",
+    "city": "Zapopan"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Houston",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-houston/",
+    "relative_url": "/gdg-cloud-houston/",
+    "city": "Houston"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Guadalajara",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-guadalajara/",
+    "relative_url": "/gdg-guadalajara/",
+    "city": "Guadalajara"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Columbia, MO",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-columbia-mo/",
+    "relative_url": "/gdg-columbia-mo/",
+    "city": "Columbia"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Houston",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-houston/",
+    "relative_url": "/gdg-houston/",
+    "city": "Houston"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/GoogleDevelopers_GDG_FacebookBanner.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GoogleDevelopers_GDG_FacebookBanner.png",
+      "path": "chapter_banners/GoogleDevelopers_GDG_FacebookBanner.png"
+    },
+    "title": "GDG Little Rock",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-little-rock/",
+    "relative_url": "/gdg-little-rock/",
+    "city": "Little Rock"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Guanajuato",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-guanajuato/",
+    "relative_url": "/gdg-guanajuato/",
+    "city": "Guanajuato"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG St Louis",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-st-louis/",
+    "relative_url": "/gdg-st-louis/",
+    "city": "Saint Louis"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Celaya",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-celaya/",
+    "relative_url": "/gdg-celaya/",
+    "city": "Celaya"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Quer\\u00e9taro",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-queretaro-1/",
+    "relative_url": "/gdg-queretaro-1/",
+    "city": "Quer\\u00e9taro"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Madison",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-madison/",
+    "relative_url": "/gdg-madison/",
+    "city": "Madison"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG MEMPHIS",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-memphis/",
+    "relative_url": "/gdg-memphis/",
+    "city": "Memphis"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Thunder Bay",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-cloud-thunder-bay/",
+    "relative_url": "/gdg-cloud-thunder-bay/",
+    "city": "Thunder Bay"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/Meetup%2520Cover%2520Photo%25202.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Meetup%2520Cover%2520Photo%25202.jpg",
+      "path": "chapter_banners/Meetup Cover Photo 2.jpg"
+    },
+    "title": "GDG UWM",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-uwm/",
+    "relative_url": "/gdg-uwm/",
+    "city": "Milwaukee"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Cloud Chicago",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-cloud-chicago/",
+    "relative_url": "/gdg-cloud-chicago/",
+    "city": "Chicago"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Chicago",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-chicago/",
+    "relative_url": "/gdg-chicago/",
+    "city": "Chicago"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/17620569_1260473127370483_1947772592489744127_o.jpg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/17620569_1260473127370483_1947772592489744127_o.jpg",
+      "path": "chapter_banners/17620569_1260473127370483_1947772592489744127_o.jpg"
+    },
+    "title": "GDG WonderCoders",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-wondercoders/",
+    "relative_url": "/gdg-wondercoders/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Ciudad de Mexico Android",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-ciudad-de-mexico-android/",
+    "relative_url": "/gdg-ciudad-de-mexico-android/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/105970205_279786246464551_395564479917880311_n.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/105970205_279786246464551_395564479917880311_n.png",
+      "path": "chapter_banners/105970205_279786246464551_395564479917880311_n.png"
+    },
+    "title": "GDG IPN",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-ipn/",
+    "relative_url": "/gdg-ipn/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-05-25%2520at%252015.05.15_rlBipx7.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-05-25%2520at%252015.05.15_rlBipx7.jpeg",
+      "path": "chapter_banners/WhatsApp Image 2020-05-25 at 15.05.15_rlBipx7.jpeg"
+    },
+    "title": "GDG Cloud Mexico City",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
+    "relative_url": "/gdg-cloud-mexico-city/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/107699773_2709810995951884_1953987316001128822_o.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 720,
+      "thumbnail_width": 1280,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/107699773_2709810995951884_1953987316001128822_o.png",
+      "path": "chapter_banners/107699773_2709810995951884_1953987316001128822_o.png"
+    },
+    "title": "GDG UNAM",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-unam/",
+    "relative_url": "/gdg-unam/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG Ciudad de M\\u00e9xico",
+    "country": "MX",
+    "url": "https://gdg.community.dev/gdg-ciudad-de-mexico/",
+    "relative_url": "/gdg-ciudad-de-mexico/",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "result_type": "chapter",
+    "picture": {},
+    "title": "GDG New Orleans",
+    "country": "US",
+    "url": "https://gdg.community.dev/gdg-new-orleans/",
+    "relative_url": "/gdg-new-orleans/",
+    "city": "New Orleans"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1038,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Fresno",
+      "relative_url": "/gdg-fresno/",
+      "url": "https://gdg.community.dev/gdg-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 29092,
+    "start_date": "2015-05-07T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-fresno-presents-todd-mcleod-presents-go-lang/",
+    "description_short": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. Go provides the ability for \"server-side\" programming. Traditional choices for server-side languages have included PHP, ASP, and JSP. Increasingly popular server-side programming languages include Ruby, Python, and Node.js. While there are advantages and disadvantages to all languages, n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Todd McLeod Presents Go Lang",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-fresno-presents-todd-mcleod-presents-go-lang/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1038,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Fresno",
+      "relative_url": "/gdg-fresno/",
+      "url": "https://gdg.community.dev/gdg-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 29093,
+    "start_date": "2015-05-14T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-fresno-presents-gdg-fcc-code-lab-for-chromecast/",
+    "description_short": "GDG FCC will be hosting a \"Learn to code for Chromecast\" code lab. Our very own James Cha will be running the lab!!! This event will also highlight the GDG FCC group and it's first semester of growth. WAY to go Nick Roberts!!! Please come out and learn how easy it is to code for Chromecast!\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "GDG FCC Code Lab for Chromecast",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-fresno-presents-gdg-fcc-code-lab-for-chromecast/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1038,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Fresno",
+      "relative_url": "/gdg-fresno/",
+      "url": "https://gdg.community.dev/gdg-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 29094,
+    "start_date": "2015-06-04T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-fresno-presents-google-io-recap/",
+    "description_short": "Recap of all the amazing new things that was introduced at Google IO.\n\nWe will have swag to give away!\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Google IO recap",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-fresno-presents-google-io-recap/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "South Jordan, UT (US)",
+      "city": "South Jordan",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Salt Lake is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1035,
+      "state": "UT",
+      "timezone": "America/Denver",
+      "title": "GDG Salt Lake",
+      "relative_url": "/gdg-salt-lake/",
+      "url": "https://gdg.community.dev/gdg-salt-lake/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26431,
+    "start_date": "2015-06-17T19:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-presents-gdg-web-june-meetup-google-io-recap-and-hack-night/",
+    "description_short": "Hey Everyone! This month we are going to do a recap of Google IO! There were a ton of awesome new announcements and we have swag from IO to share with you as well!  \nWe are also going to hack on some of the new technologies that were announced so come prepared for that as well!\n\nAs always pizza starts at 6:30 and the presentations start at 7. See you there! \\ufeff\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "GDG Web June Meetup- Google IO recap and hack night",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-salt-lake-presents-gdg-web-june-meetup-google-io-recap-and-hack-night/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "South Jordan"
+  },
+  {
+    "chapter": {
+      "chapter_location": "South Jordan, UT (US)",
+      "city": "South Jordan",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Salt Lake is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1035,
+      "state": "UT",
+      "timezone": "America/Denver",
+      "title": "GDG Salt Lake",
+      "relative_url": "/gdg-salt-lake/",
+      "url": "https://gdg.community.dev/gdg-salt-lake/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26432,
+    "start_date": "2015-06-23T18:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-presents-writing-command-line-utilities-with-dart/",
+    "description_short": "If there's one thing computers are good for, it's automating repetitive, tedious startup tasks that waste developers' time and, in the worst cases, serve as a deterrent to starting a project at all. Writing a few small scripts to handle the boilerplate and scaffolding can go a long way toward eliminating barriers to productivity.\n\nUsing Dart to create these scripts brings all the usual advantages:",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Writing Command-Line Utilities with Dart",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-salt-lake-presents-writing-command-line-utilities-with-dart/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "South Jordan"
+  },
+  {
+    "chapter": {
+      "chapter_location": "South Jordan, UT (US)",
+      "city": "South Jordan",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Salt Lake is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1035,
+      "state": "UT",
+      "timezone": "America/Denver",
+      "title": "GDG Salt Lake",
+      "relative_url": "/gdg-salt-lake/",
+      "url": "https://gdg.community.dev/gdg-salt-lake/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26433,
+    "start_date": "2015-07-09T18:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-presents-2-android-tracks-new-and-intermediate/",
+    "description_short": "In our last meeting we decided that a repeating format would be useful. The planned format is to have two tracks, one as orientation for Android beginners and another for experienced Android developers. Food is not provided at this meetup, but you are able to eat food in the conference room where we meet.\n\nLocation info: As you come to Instructure tonight please note a few things. 1. Please park o",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "2 Android tracks: New and Intermediate+",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-salt-lake-presents-2-android-tracks-new-and-intermediate/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "South Jordan"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Denver, CO (US)",
+      "city": "Denver",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Denver is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1034,
+      "state": "CO",
+      "timezone": "America/Denver",
+      "title": "GDG Denver",
+      "relative_url": "/gdg-denver/",
+      "url": "https://gdg.community.dev/gdg-denver/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 24987,
+    "start_date": "2015-07-21T18:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-denver-presents-android-bluetooth-deep-dive-with-dave-smith/",
+    "description_short": "Great meetup for July, with a very high quality speaker, below is a talk description and speaker bio ...\n\nUpdate: Google has announced Eddystone, and this presentation will cover this exciting new topic!\n\nBluetooth LE devices that broadcast information, commonly referred to as beacons, are a favorite among IoT enthusiasts. Building context into user applications based on their proximity is an exci",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Android Bluetooth Deep Dive with Dave Smith",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-denver-presents-android-bluetooth-deep-dive-with-dave-smith/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Denver"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Denver, CO (US)",
+      "city": "Denver",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Denver is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1034,
+      "state": "CO",
+      "timezone": "America/Denver",
+      "title": "GDG Denver",
+      "relative_url": "/gdg-denver/",
+      "url": "https://gdg.community.dev/gdg-denver/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 24988,
+    "start_date": "2015-08-04T18:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-denver-presents-student-technology-all-stars/",
+    "description_short": "This special evening will feature some student presentations from people making big impacts in their community.\n\nCameron Chaney is a Colorado high school student with a special expertise in a Google related technology that he uses to pay it forward. When he isn't 3D printing amazing stuff he exercises his civic power to influence million dollar projects that directly impact him and his friends. Hi",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Student Technology All Stars",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-denver-presents-student-technology-all-stars/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Denver"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Los Angeles, CA (US)",
+      "city": "Los Angeles",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Los Angeles is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1032,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Los Angeles",
+      "relative_url": "/gdg-los-angeles/",
+      "url": "https://gdg.community.dev/gdg-los-angeles/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25669,
+    "start_date": "2015-08-20T18:30:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-august-meetup-high-performance-android/",
+    "description_short": "We are giving away a Nexus Player, Play Store credits and more!\n\nTO ENSURE YOU HAVE A SEAT PLEASE RSVP FOR THIS EVENT AT https://generalassemb.ly/education/google-developer-group-high-performance-android/los-angeles/16230\n\nHigh Performance Android - tools and techniques for writing and building high performance Android software\n\nMark Scheel is a senior Android developer for a consumer healthcare a",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "August Meetup: High Performance Android",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-los-angeles-presents-august-meetup-high-performance-android/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Los Angeles"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Denver, CO (US)",
+      "city": "Denver",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Denver is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1034,
+      "state": "CO",
+      "timezone": "America/Denver",
+      "title": "GDG Denver",
+      "relative_url": "/gdg-denver/",
+      "url": "https://gdg.community.dev/gdg-denver/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 24989,
+    "start_date": "2015-09-28T14:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-denver-presents-denver-startup-week-virtual-reality/",
+    "description_short": "Denver Startup Week is 9/28 - 10/2 and we'll be hosting a Virtual Reality event 9/28, which will include discussion of Google Cardboard and a HUGE surprise.\n\nSign up here: http://www.denverstartupweek.org/schedule/1101-virtual-reality-101\n\nDescription:\n\nOne part philosophical, one part technical, this session will make you question what is real and yearn for more Virtual Reality in your life.\n\nA s",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Denver Startup Week & Virtual Reality",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-denver-presents-denver-startup-week-virtual-reality/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Denver"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Los Angeles, CA (US)",
+      "city": "Los Angeles",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Los Angeles is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1032,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Los Angeles",
+      "relative_url": "/gdg-los-angeles/",
+      "url": "https://gdg.community.dev/gdg-los-angeles/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25670,
+    "start_date": "2015-10-24T10:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-gdg-los-angeles-devfest-2015/",
+    "description_short": "Event Details at http://devfest.gdgla.org  \nTickets must be purchased in advance\n\nDevFest is a huge all day event\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "GDG Los Angeles DevFest 2015",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-los-angeles-presents-gdg-los-angeles-devfest-2015/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Los Angeles"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Kansas City, MO (US)",
+      "city": "Kansas City",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Kansas City is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 971,
+      "state": "MO",
+      "timezone": "America/Chicago",
+      "title": "GDG Kansas City",
+      "relative_url": "/gdg-kansas-city/",
+      "url": "https://gdg.community.dev/gdg-kansas-city/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25567,
+    "start_date": "2015-12-17T18:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-kansas-city-presents-gdg-kc-holiday-party/",
+    "description_short": "Before you head out to see Star Wars on Thursday night, come play some **free** games with GDG Kansas City at Up-Down KC!! \n\nWe'll be playing games and chatting about where GDG KC is headed in 2016. If you are not able to make it, we hope you have a safe and happy holidays! We look forward to seeing you all in 2016!!\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "GDG KC Holiday Party",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-kansas-city-presents-gdg-kc-holiday-party/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Kansas City"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Los Angeles, CA (US)",
+      "city": "Los Angeles",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Los Angeles is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1032,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Los Angeles",
+      "relative_url": "/gdg-los-angeles/",
+      "url": "https://gdg.community.dev/gdg-los-angeles/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25671,
+    "start_date": "2015-12-17T18:30:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-final-meetup-for-2015/",
+    "description_short": "Come join GDG Los Angeles for our final meetup of 2015. We'll start the evening with a behind-the-scenes look at our recent DevFest event, including a deep-dive into the Polymer template used to power our DevFest site and how we host it for free using GitHub pages. We'll close with our year-end prize raffle. All past attendees are already entered, but you increase your odds of winning by attending",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Final Meetup for 2015",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-los-angeles-presents-final-meetup-for-2015/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Los Angeles"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Minneapolis, MN (US)",
+      "city": "Minneapolis",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Twin Cities is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 978,
+      "state": "MN",
+      "timezone": "America/Chicago",
+      "title": "GDG Twin Cities",
+      "relative_url": "/gdg-twin-cities/",
+      "url": "https://gdg.community.dev/gdg-twin-cities/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26818,
+    "start_date": "2016-01-05T18:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-twin-cities-presents-cool-projects-jan-meetup-agosto/",
+    "description_short": "Tentative Schedule:\n\n6:30 - Food and networking\n\n7:00 - Welcome and announcements. \n\n7:15 - Topic presentation. Paul and his team will give a few summaries of project they are working on that sound super interesting.\n\n1\\. IoT - Device to Google Cloud Platform - Agosto's reference architecture  \n2\\. Skykit Product - Google based architecture (Chromebox/Chromebit, Chrome Device Mgmt, App Engine, Com",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Cool Projects - Jan Meetup @ Agosto",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-twin-cities-presents-cool-projects-jan-meetup-agosto/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Minneapolis"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Missoula, MT (US)",
+      "city": "Missoula",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Missoula is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 946,
+      "state": "MT",
+      "timezone": "America/Denver",
+      "title": "GDG Missoula",
+      "relative_url": "/gdg-missoula/",
+      "url": "https://gdg.community.dev/gdg-missoula/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25927,
+    "start_date": "2016-01-07T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-missoula-presents-building-a-web-app-with-polymer-web-components/",
+    "description_short": "The web as an application platform is advancing rapidly. Come learn about web components and how to build them easily using the Polymer library. (https://www.polymer-project.org/1.0/)\n\nWe'll show how to build a custom HTML element that is reusable anywhere, and how to assemble custom elements into larger bits of functionality, even entire applications.\n\nFood and beverages will be provided. There i",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Building a web app with Polymer web components",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-missoula-presents-building-a-web-app-with-polymer-web-components/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Missoula"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Boulder, CO (US)",
+      "city": "Boulder",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Boulder is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 953,
+      "state": "CO",
+      "timezone": "America/Denver",
+      "title": "GDG Boulder",
+      "relative_url": "/gdg-boulder/",
+      "url": "https://gdg.community.dev/gdg-boulder/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 28710,
+    "start_date": "2016-01-07T19:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-boulder-presents-tensorflow-102-convolutional-neural-networks/",
+    "description_short": "Please read through the convolutional neural networks and we'll go over it.\n\nFurther reading:  \nDeep learning with tensors:\n\nhttp://arxiv.org/pdf/1509.05009v1.pdf\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Tensorflow 102: convolutional neural networks",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-boulder-presents-tensorflow-102-convolutional-neural-networks/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Boulder"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Modesto, CA (US)",
+      "city": "Modesto",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Modesto is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 956,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Modesto",
+      "relative_url": "/gdg-modesto/",
+      "url": "https://gdg.community.dev/gdg-modesto/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 25931,
+    "start_date": "2016-01-08T17:30:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-modesto-presents-gdg-modesto-january-meetup/",
+    "description_short": "Happy New Year, #modesto GDGers! Sorry for the somewhat short notice, but with the upcoming hackathon ( https://valleyhackathon.com/ ) and other work obligations, this Friday was the only day that would work :) We'll meet at 1010 10th St, Suite 1013 in downtown modesto on Jan 8 at 5:30p. Please bring any ideas you have for talks, codelabs, or projects that you'd like to work in the coming year. #g",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "GDG Modesto January meetup",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-modesto-presents-gdg-modesto-january-meetup/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Modesto"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Phoenix, AZ (US)",
+      "city": "Phoenix",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Phoenix is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 987,
+      "state": "AZ",
+      "timezone": "America/Phoenix",
+      "title": "GDG Phoenix",
+      "relative_url": "/gdg-phoenix/",
+      "url": "https://gdg.community.dev/gdg-phoenix/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 29315,
+    "start_date": "2016-01-09T09:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-phoenix-presents-iot-devfest/",
+    "description_short": "***You must have a ticket for this event, they are available now* **\n\n**http://www.iotdevfest.com/**\n\n\\------------------------ **  \n** We are excited about this cool event. We are bringing in some top notch speakers (and expect a great community) for a unique intimate event.\n\nThe speaker list is on the website and a schedule is coming soon:\n\nhttp://www.iotdevfest.com/speakers/\n\nYou can expect a s",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "IoT DevFest",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-phoenix-presents-iot-devfest/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Phoenix"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Sacramento, CA (US)",
+      "city": "Sacramento",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Sacramento is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 966,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Sacramento",
+      "relative_url": "/gdg-sacramento/",
+      "url": "https://gdg.community.dev/gdg-sacramento/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 28270,
+    "start_date": "2016-01-14T18:30:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-sacramento-presents-intro-to-go-restful-backends-with-mysql-and-express/",
+    "description_short": "Tired of dealing with Java/.NET? Or just want to explore other solutions? Join us to discuss and find out more about some alternative backend solutions!\n\nAgenda:\n\n\\- Intoduction to Go (Nathan Jenan)\n\n\\- RESTful Backends with MySQL & Express (Zachariah Moreno)\n\n\\- Raffle\n",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Intro to Go + RESTful backends with MySQL and Express",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-sacramento-presents-intro-to-go-restful-backends-with-mysql-and-express/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Sacramento"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: Women Techmakers Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 967,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "Women Techmakers Fresno",
+      "relative_url": "/women-techmakers-fresno/",
+      "url": "https://gdg.community.dev/women-techmakers-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 29408,
+    "start_date": "2016-01-17T13:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-women-techmakers-fresno-presents-getting-ready-for-international-womens-day-2016/",
+    "description_short": "We will discuss plans for our annual International Women's Day Celebration! The celebration is our chance to honor and encourage all of the amazing tech women in the Central Valley. Have an idea for what you want to see this year? Want to get involved as a volunteer or activity leader? Come to this meeting and share your thoughts!\n\n**View the video from the 2015 International Women's Day Global Ev",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Getting Ready for International Women's Day 2016!",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-women-techmakers-fresno-presents-getting-ready-for-international-womens-day-2016/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Seattle, WA (US)",
+      "city": "Seattle",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Seattle is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 960,
+      "state": "WA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Seattle",
+      "relative_url": "/gdg-seattle/",
+      "url": "https://gdg.community.dev/gdg-seattle/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26521,
+    "start_date": "2016-01-19T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-seattle-presents-women-techmakers-community-tech-talks/",
+    "description_short": "!\n\nFor our January meetup, Women Techmakers (Google's global program for women in tech) is sponsoring an event that promotes women speakers. Let\\u2019s get together and hear from these talented women of the Seattle tech community \\u2013\n\n**Synchronized Shopping List App by Rezwana Meer**\n\n\\- Android app that synchronizes data in real time between people in a group. \n\n\\- Is used in a shopping list that pushe",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Women Techmakers: Community Tech-Talks",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-seattle-presents-women-techmakers-community-tech-talks/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Seattle"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Mountain View, CA (US)",
+      "city": "Mountain View",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Silicon Valley is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 962,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Silicon Valley",
+      "relative_url": "/gdg-silicon-valley/",
+      "url": "https://gdg.community.dev/gdg-silicon-valley/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 26612,
+    "start_date": "2016-01-20T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-silicon-valley-presents-engineering-superpower-turning-cool-science-into-products-that-change-the-world/",
+    "description_short": "**Happy New Year! Our first event of the year will be a combined event with the Silicon Valley Java User Group. **\n\n**Badging:**\n\n_Please help us with badging and sign-up for this Meetup with your full name by answering the question during RSVP. That way we can print out the badges ahead of time and speed up the sign-in process. Thanks!_\n\nIf you are a member of both groups please only RSVP once\n\n*",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Engineering Superpower: Turning cool science into products that change the world",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-silicon-valley-presents-engineering-superpower-turning-cool-science-into-products-that-change-the-world/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Mountain View"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Saint Louis, MO (US)",
+      "city": "Saint Louis",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG St Louis is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 950,
+      "state": "MO",
+      "timezone": "America/Chicago",
+      "title": "GDG St Louis",
+      "relative_url": "/gdg-st-louis/",
+      "url": "https://gdg.community.dev/gdg-st-louis/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 28373,
+    "start_date": "2016-01-21T18:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-st-louis-presents-learn-cloud-computing-with-google-cloud/",
+    "description_short": "Come and learn Cloud Computing. We will teach you how to do the following things in Cloud: \n\n\\u2022 Spin up instances and auto-scaling instance groups\n\n\\u2022 Run a website with a front-end load balancer and multiple webheads\n\n\\u2022 Create, mount, format and snapshot disks\n\n\\u2022 Create a Docker container cluster and run your app in Docker environment\n\n\\u2022 Automate your infrastructure\n\n\\u2022 Monitor your infrastructure, ",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Learn Cloud Computing with Google Cloud!",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-st-louis-presents-learn-cloud-computing-with-google-cloud/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Saint Louis"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Austin, TX (US)",
+      "city": "Austin",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Austin is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 947,
+      "state": "TX",
+      "timezone": "America/Chicago",
+      "title": "GDG Austin",
+      "relative_url": "/gdg-austin/",
+      "url": "https://gdg.community.dev/gdg-austin/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 27265,
+    "start_date": "2016-01-21T19:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-austin-presents-web-components-polymer/",
+    "description_short": "Learn the ins and outs of web components at this month's GDG meetup. Corey Butler will explain how to work with \"raw\" web component technology including Shadow DOM and Custom Elements. Corey will be followed by Pete Carapetyan will share his experience building PolyRest using Google's Polymer libraries for web components.\n\n**About Corey Butler**\n\nCorey is the author of the Fenix Web Server (fenixw",
+    "tags": [],
+    "result_type": "past_event",
+    "title": "Web Components & Polymer",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-austin-presents-web-components-polymer/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Austin"
+  },
+  {
+    "chapter": {
+      "chapter_location": "South Jordan, UT (US)",
+      "city": "South Jordan",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Salt Lake is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1035,
+      "state": "UT",
+      "timezone": "America/Denver",
+      "title": "GDG Salt Lake",
+      "relative_url": "/gdg-salt-lake/",
+      "url": "https://gdg.community.dev/gdg-salt-lake/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 12179,
+    "start_date": "2020-11-20T12:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-presents-canceled-pending-covid-19-flutter-lunch-n-learn-9/",
+    "description_short": "We're on hiatus for the foreseeable future, based on state and CDC guidelines: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/mass-gatherings-ready-for-covid-19.html\n\nWe'll eat lunch (provided), learn and talk about Flutter.\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "[Canceled pending COVID-19] Flutter Lunch N Learn",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-salt-lake-presents-canceled-pending-covid-19-flutter-lunch-n-learn-9/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "South Jordan"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Calgary, AB (CA)",
+      "city": "Calgary",
+      "country": "CA",
+      "country_name": "Canada",
+      "description": "<h2><b>We are GDGYYC.</b></h2><p>Welcome to GDGYYC (aka. GDG Cloud Calgary), Calgary\\u2019s Google Cloud Developer Group. We are a registered non-&nbsp;and volunteer-run, official chapter of Google's worldwide developer network, known as Google Developer Groups (GDGs). We are an open, inclusive community of over 1000 members focused on developer success.</p><h2><b>Let\\u2019s advance developers. Together.</b></h2><p>Our vision says it all. We\\u2019re not satisfied until GDGYYC is a world-class developer community. It\\u2019s what we\\u2019re here to do.</p><p>Disclaimer: GDG Cloud Calgary is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a></p>",
+      "id": 512,
+      "state": "AB",
+      "timezone": "America/Edmonton",
+      "title": "GDG Cloud Calgary",
+      "relative_url": "/gdg-cloud-calgary/",
+      "url": "https://gdg.community.dev/gdg-cloud-calgary/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/01%2520DEVFESTAB%2520Icon%25402x.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/01%2520DEVFESTAB%2520Icon%25402x.png",
+      "path": "events/01 DEVFESTAB Icon@2x.png"
+    },
+    "id": 33373,
+    "start_date": "2020-11-21T09:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-calgary-presents-devfestab-lets-build-the-pipelines-of-the-future/",
+    "description_short": "Let's Build the pipelines of the Future! \n\\ud83d\\udc8e Data Pipelines\n\\u2699\\ufe0f CI/CD Pipelines\n\\ud83d\\udce6 Migration Pipelines\n\\ud83d\\udee1\\ufe0f Security Pipelines\n\\ud83d\\ude80 Talent Pipelines\n\nDevFestAB brings Startup and Enterprise developers, architects, data scientists and operations professionals together Build the Pipelines of the Future! Learn and master the world's most powerful Google Cloud and Cloud Native technology and techniques.\n",
+    "tags": [
+      "Cloud",
+      "Data",
+      "DevOps",
+      "Enterprise/Business Solutions",
+      "ML/AI"
+    ],
+    "result_type": "upcoming_event",
+    "title": "DevFestAB: Let's Build the Pipelines of the Future!",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Website-EventThumbnail-03.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Website-EventThumbnail-03.png",
+      "path": "event_banners/GDG-Website-EventThumbnail-03.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-calgary-presents-devfestab-lets-build-the-pipelines-of-the-future/",
+    "event_type_title": "DevFest",
+    "city": "Calgary"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Edmonton, AB (CA)",
+      "city": "Edmonton",
+      "country": "CA",
+      "country_name": "Canada",
+      "description": "<h3><span style=\"font-size: 16px;\">Welcome to Google Developers Group Cloud Edmonton. We are an official chapter of Google\\u2019s worldwide network of cloud enthusiasts, developers, data scientists and cloud engineers.</span><br></h3><h3><b>What we do</b></h3><p>Our goal is to become the largest community of developers in Edmonton, through various technology events, learning opportunities, and access to the latest Google products. We help our members to grow by advancing their skills, network and career.<b>&nbsp;</b>Find more about us on&nbsp;<a href=\"https://gdgedmonton.com/\" style=\"background-color: rgb(255, 255, 255);\"><span>https://gdgedmonton.com/</span></a>&nbsp;</p><p><br></p>",
+      "id": 133,
+      "state": "AB",
+      "timezone": "America/Edmonton",
+      "title": "GDG Cloud Edmonton",
+      "relative_url": "/gdg-cloud-edmonton/",
+      "url": "https://gdg.community.dev/gdg-cloud-edmonton/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/DevFestAB%2520logo_7t0akXO.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/DevFestAB%2520logo_7t0akXO.png",
+      "path": "events/DevFestAB logo_7t0akXO.png"
+    },
+    "id": 33526,
+    "start_date": "2020-11-21T09:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-edmonton-presents-devfestab-lets-build-the-pipelines-of-the-future/",
+    "description_short": "DevFestAB is Here!\n\nDevFestAB brings developers from across Alberta and around the globe to learn with the world\\u2019s top Google Cloud experts.",
+    "tags": [
+      "Cloud",
+      "Data",
+      "DevOps",
+      "Enterprise/Business Solutions",
+      "ML/AI"
+    ],
+    "result_type": "upcoming_event",
+    "title": "DevFestAB: Let's Build the Pipelines of the Future!",
+    "event_type_logo": {},
+    "relative_url": "/events/details/google-gdg-cloud-edmonton-presents-devfestab-lets-build-the-pipelines-of-the-future/",
+    "event_type_title": "DevFest Co-Host",
+    "city": "Edmonton"
+  },
+  {
+    "chapter": {
+      "chapter_location": "M\\u00e9xico City (MX)",
+      "city": "M\\u00e9xico City",
+      "country": "MX",
+      "country_name": "Mexico",
+      "description": "<p><b>GDG UNAM</b> es la comunidad conformada por distintos perfiles de personas, en donde buscamos compartir conocimientos como la cultura Hacker, la visi\\u00f3n Maker, la perspectiva del dise\\u00f1o y el impulso del emprendimiento y como todas estas habilidades son utilizadas en su conjunto para crear cosas incre\\u00edbles, innovadoras e inspiradoras.</p><p>Si tu eres una de esas personas que buscan compartir su talento, aprender algo nuevo o mejorar sus habilidades, entonces \\u00fanete a nosotros y ven a uno de nuestros eventos, ah\\u00ed descubrir\\u00e1s lo que es formar parte del GDG UNAM.</p><p>Los miembros organizadores de este grupo, somos developers y estudiantes que compartimos un inter\\u00e9s particular por la tecnolog\\u00eda desarrollada por Google y buscamos utilizar sus productos para impulsar nuestras ideas.</p><br>Disclaimer: GDG UNAM is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 856,
+      "state": "",
+      "timezone": "America/Mexico_City",
+      "title": "GDG UNAM",
+      "relative_url": "/gdg-unam/",
+      "url": "https://gdg.community.dev/gdg-unam/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/Dise%25C3%25B1o%2520sin%2520t%25C3%25ADtulo%25281%2529.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/Dise%25C3%25B1o%2520sin%2520t%25C3%25ADtulo%25281%2529.png",
+      "path": "events/Dise\\u00f1o sin t\\u00edtulo(1).png"
+    },
+    "id": 34518,
+    "start_date": "2020-11-21T19:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-unam-presents-el-stack-de-la-mermelada/",
+    "description_short": "JAMstack es un nuevo y prometedor stack para el desarrollo de aplicaciones web. A partir de JavaScript, APIs y Markup, promete m\\u00e1s rapidez, seguridad y escalabilidad por menos costos.\n\n\\u00danete este s\\u00e1bado para descubrirlo, haciendo tus primeras apps usando JAMstack.",
+    "tags": [
+      "Web"
+    ],
+    "result_type": "upcoming_event",
+    "title": "El stack de la mermelada",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-unam-presents-el-stack-de-la-mermelada/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "M\\u00e9xico City"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Bellevue, WA (US)",
+      "city": "Bellevue",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Cloud Bellevue is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1057,
+      "state": "WA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Cloud Bellevue",
+      "relative_url": "/gdg-cloud-bellevue/",
+      "url": "https://gdg.community.dev/gdg-cloud-bellevue/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 33814,
+    "start_date": "2020-11-23T14:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-bellevue-presents-4-weeks-course-practical-machine-lerning-with-pythonsklearn-cohort-3/",
+    "description_short": "This is paid online course (with zoom), 16 hours, in 8 sessions in 4 weeks. follow instructions below to enroll, don't rsvp at meetup.  \n\\-----------  \nWe are starting the 3rd cohort of course: 4-Weeks Practical Machine Learning From Theory to Modelling in Python and Scikit-learn.\n\nThis course is online live course, powered by zoom. You can listen, watch, interact, Q&A with instructors from anywhe",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "4-weeks course: Practical Machine Lerning with Python/Sklearn (Cohort 3)",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-bellevue-presents-4-weeks-course-practical-machine-lerning-with-pythonsklearn-cohort-3/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Bellevue"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Dallas, TX (US)",
+      "city": "Dallas",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Cloud DFW is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 440,
+      "state": "TX",
+      "timezone": "America/Chicago",
+      "title": "GDG Cloud DFW",
+      "relative_url": "/gdg-cloud-dfw/",
+      "url": "https://gdg.community.dev/gdg-cloud-dfw/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/GDG%2520Meetup%2520Banners.002_8m3Kqmf.jpeg",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/GDG%2520Meetup%2520Banners.002_8m3Kqmf.jpeg",
+      "path": "events/GDG Meetup Banners.002_8m3Kqmf.jpeg"
+    },
+    "id": 34537,
+    "start_date": "2020-11-24T17:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-dfw-presents-ms-sql-and-oracle-databases-on-google-cloud/",
+    "description_short": "In this session we will discuss list of options for running Microsoft SQL Server and Oracle databases on GCP\n- Migration approaches from on-prem\n- High Availability / Disaster recovery \n- Management and Scaling of the database instances in GCP\n- Monitoring",
+    "tags": [
+      "Cloud",
+      "Data",
+      "Enterprise/Business Solutions"
+    ],
+    "result_type": "upcoming_event",
+    "title": "MS SQL and Oracle Databases on Google Cloud",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-dfw-presents-ms-sql-and-oracle-databases-on-google-cloud/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Dallas"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Irvine, CA (US)",
+      "city": "Irvine",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Cloud OC is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 370,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Cloud OC",
+      "relative_url": "/gdg-cloud-oc/",
+      "url": "https://gdg.community.dev/gdg-cloud-oc/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 16829,
+    "start_date": "2020-11-24T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-oc-presents-tbd-7/",
+    "description_short": "Hello GCPers!\n\nJoin Google and Neudesic for a session on the latest in GCP. Topic will be announced soon!\n\nWe need to know who is planning to attend in advance; please RSVP by Sunday before the meeting.\n\nNOTE: location has changed to Neudesic office until further notice!\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-oc-presents-tbd-7/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Irvine"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Irvine, CA (US)",
+      "city": "Irvine",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Cloud OC is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 370,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Cloud OC",
+      "relative_url": "/gdg-cloud-oc/",
+      "url": "https://gdg.community.dev/gdg-cloud-oc/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 27647,
+    "start_date": "2020-11-24T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-oc-presents-tbd-15/",
+    "description_short": "Hello GCPers!\n\nJoin us every month to learn more about GCP and how our community is using it.\n\nNOTE: we are 100% virtual until COVID-19 restrictions have been removed and our venues are open again. RSVP to get a link to the meeting.\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-oc-presents-tbd-15/",
+    "event_type_title": "Hands on workshop - Virtual",
+    "city": "Irvine"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Tucson, AZ (US)",
+      "city": "Tucson",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Tucson is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 948,
+      "state": "AZ",
+      "timezone": "America/Phoenix",
+      "title": "GDG Tucson",
+      "relative_url": "/gdg-tucson/",
+      "url": "https://gdg.community.dev/gdg-tucson/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/New%2520GDG%2520Tucson%2520Profile%2520Image_8XOvIM4.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/New%2520GDG%2520Tucson%2520Profile%2520Image_8XOvIM4.png",
+      "path": "events/New GDG Tucson Profile Image_8XOvIM4.png"
+    },
+    "id": 34461,
+    "start_date": "2020-11-28T13:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-tucson-presents-sustainability-series-3-good-health-and-well-being/",
+    "description_short": "This month's virtual workshop addresses SDG #3: Ensure healthy lives and promote well-being for all at all ages.",
+    "tags": [
+      "Data"
+    ],
+    "result_type": "upcoming_event",
+    "title": "Sustainability Series #3: Good Health and Well-Being",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3.png"
+    },
+    "relative_url": "/events/details/google-gdg-tucson-presents-sustainability-series-3-good-health-and-well-being/",
+    "event_type_title": "Hands on workshop - Virtual",
+    "city": "Tucson"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Tucson, AZ (US)",
+      "city": "Tucson",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Cloud Tucson is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 457,
+      "state": "AZ",
+      "timezone": "America/Phoenix",
+      "title": "GDG Cloud Tucson",
+      "relative_url": "/gdg-cloud-tucson/",
+      "url": "https://gdg.community.dev/gdg-cloud-tucson/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 5700,
+    "start_date": "2020-12-01T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-cloud-tucson-presents-pints-cloud-platform-51/",
+    "description_short": "\\u2022 What we'll do:  \nJoin us for a bi-weekly casual meetup, where we discuss the latest Google Cloud Platform offerings, networking with other cloud engineers and backend developers, and promote upcoming seminars and workshops!\n\n\\u2022 What to bring:  \nA laptop is always recommended with GDG Cloud Tucson events. If you have dietary restrictions, please notify an organizer so we may do our best to accommo",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Pints & Cloud Platform",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-cloud-tucson-presents-pints-cloud-platform-51/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Tucson"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Denver, CO (US)",
+      "city": "Denver",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Denver is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1034,
+      "state": "CO",
+      "timezone": "America/Denver",
+      "title": "GDG Denver",
+      "relative_url": "/gdg-denver/",
+      "url": "https://gdg.community.dev/gdg-denver/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 33865,
+    "start_date": "2020-12-02T13:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-denver-presents-technical-writing-one-introduction-limited-spots-8-remaining/",
+    "description_short": "** We are accepting ten people to join this interactive class, you must have your camera and mic on for the two hours and you will be paired with another student. To be selected RSVP here AND send a 500+ word writing sample (any content, any level is fine) to gdgdenver at gmail dot com -- we hope to hold this again in the future **\n\nJoin Google Developer Experts Mark from Denver, Colorado and Goog",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Technical Writing One Introduction - Limited Spots - 8 remaining",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-denver-presents-technical-writing-one-introduction-limited-spots-8-remaining/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Denver"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Chicago, IL (US)",
+      "city": "Chicago",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Chicago is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 935,
+      "state": "IL",
+      "timezone": "America/Chicago",
+      "title": "GDG Chicago",
+      "relative_url": "/gdg-chicago/",
+      "url": "https://gdg.community.dev/gdg-chicago/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 34217,
+    "start_date": "2020-12-04T12:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-chicago-presents-midwest-devfest/",
+    "description_short": "Fill out the CFP Today https://sessionize.com/midwest-google-developers-group-gdg/\n\nWe are excited to announce that we will be hosting our annual Midwest DevFest 2020!\n\nDevFests are community lead events that are held all over the world where developers can learn, grow, network, and get inspired from experts.\n\nCome join us for a fun filled day where we will have several guest speakers give talks r",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Midwest Devfest",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-chicago-presents-midwest-devfest/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Chicago"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Columbia, MO (US)",
+      "city": "Columbia",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Columbia, MO is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 209,
+      "state": "MO",
+      "timezone": "America/Chicago",
+      "title": "GDG Columbia, MO",
+      "relative_url": "/gdg-columbia-mo/",
+      "url": "https://gdg.community.dev/gdg-columbia-mo/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/Devfest%2520thumbnail_LGJhWd3.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/Devfest%2520thumbnail_LGJhWd3.png",
+      "path": "events/Devfest thumbnail_LGJhWd3.png"
+    },
+    "id": 33747,
+    "start_date": "2020-12-04T12:00:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-columbia-mo-presents-devfest-midwest-2020/",
+    "description_short": "Come join us for our annual Midwest DevFest 2020, a fun filled day where we will have several guest speakers give talks relevant to anyone in the tech field, including the latest Google technologies, machine learning, UI/UX design, and more!",
+    "tags": [
+      "Android",
+      "Cloud",
+      "ML/AI",
+      "Mobile"
+    ],
+    "result_type": "upcoming_event",
+    "title": "DevFest Midwest 2020",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-columbia-mo-presents-devfest-midwest-2020/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Columbia"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Visalia, CA (US)",
+      "city": "Visalia",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Visalia is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 957,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Visalia",
+      "relative_url": "/gdg-visalia/",
+      "url": "https://gdg.community.dev/gdg-visalia/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 14482,
+    "start_date": "2020-12-04T17:30:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-visalia-google-developer-group-presents-gdg-visalia-16/",
+    "description_short": "Beginners welcome!  \nLocation: John Muir 208 or 211 (upstairs)  \nMap link: http://goo.gl/GcofJs\n\nParking permits are: $2 for the day pass required\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "GDG Visalia",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-visalia-google-developer-group-presents-gdg-visalia-16/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Visalia"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Mountain View, CA (US)",
+      "city": "Mountain View",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Silicon Valley is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 962,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Silicon Valley",
+      "relative_url": "/gdg-silicon-valley/",
+      "url": "https://gdg.community.dev/gdg-silicon-valley/"
+    },
+    "video_url": null,
+    "picture": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/events/GDG%2520Silicon%2520Valley%2520.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 400,
+      "thumbnail_width": 400,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/events/GDG%2520Silicon%2520Valley%2520.png",
+      "path": "events/GDG Silicon Valley .png"
+    },
+    "id": 33721,
+    "start_date": "2020-12-05T10:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-silicon-valley-presents-devfest-silicon-valley/",
+    "description_short": "Join us for DevFest Silicon Valley on Saturday, December 5th, 2020 virtually from anywhere around the world! ",
+    "tags": [
+      "Android",
+      "Cloud",
+      "Google Assistant",
+      "ML/AI",
+      "Web"
+    ],
+    "result_type": "upcoming_event",
+    "title": "DevFest Silicon Valley",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-silicon-valley-presents-devfest-silicon-valley/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Mountain View"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Omaha, NE (US)",
+      "city": "Omaha",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "<p>We are a Google Developer Group meetup that focuses in Android for beginners to experts with an emphasis on beginners! Our goal with this group is to build a vibrant Android community that is diverse and supportive of everyone included. We will start every meetup with some socializing followed by a quick beginner level topic so we can help each other get started and build our skills. Following that, we will have a break and then a speaker from the community will have an advanced Android talk to so we can take our skills to the next level! Join us as we show Omaha how incredible and supportive the Android community is. See you there!</p><p>Please contact the GDG organizers if you would like to start meeting on other Google topics.</p><p>We also have a slack!</p><a href=\"https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ\">https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ</a><p>Disclaimer: GDG Omaha is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a></p>",
+      "id": 940,
+      "state": "NE",
+      "timezone": "America/Chicago",
+      "title": "GDG Omaha",
+      "relative_url": "/gdg-omaha/",
+      "url": "https://gdg.community.dev/gdg-omaha/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 34119,
+    "start_date": "2020-12-08T17:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-13/",
+    "description_short": "Join us to learn about Android and to meet other Android Developers. There will be a talk at 6:00pm. Will post link to zoom shortly before the event.\n\nAgenda:\n\n5:30pm Socialize\n\n6:00pm Android Talk\n\n7:00pm Happy hour\n\nFind us on slack (https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ)\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Remote Monthly Meeting - Android Topics TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-13/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Omaha"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Omaha, NE (US)",
+      "city": "Omaha",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "<p>We are a Google Developer Group meetup that focuses in Android for beginners to experts with an emphasis on beginners! Our goal with this group is to build a vibrant Android community that is diverse and supportive of everyone included. We will start every meetup with some socializing followed by a quick beginner level topic so we can help each other get started and build our skills. Following that, we will have a break and then a speaker from the community will have an advanced Android talk to so we can take our skills to the next level! Join us as we show Omaha how incredible and supportive the Android community is. See you there!</p><p>Please contact the GDG organizers if you would like to start meeting on other Google topics.</p><p>We also have a slack!</p><a href=\"https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ\">https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ</a><p>Disclaimer: GDG Omaha is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a></p>",
+      "id": 940,
+      "state": "NE",
+      "timezone": "America/Chicago",
+      "title": "GDG Omaha",
+      "relative_url": "/gdg-omaha/",
+      "url": "https://gdg.community.dev/gdg-omaha/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 18760,
+    "start_date": "2020-12-08T17:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-google-developer-group-omaha-presents-monthly-meeting-android-topics-tbd-8/",
+    "description_short": "Join us to learn about Android and to meet other Android Developers. There will be a beginner talk at 6:00pm and then a second talk around 6:30pm.\n\nAgenda:\n\n5:30pm Socialize\n\n6:00pm Beginner Android Talk\n\n6:30pm Second Android Talk\n\n7:30pm Socialize\n\nFree beer and pizza. Read the FAQ's\n\nFind us on slack (https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZm",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Monthly Meeting - Android Topics TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-google-developer-group-omaha-presents-monthly-meeting-android-topics-tbd-8/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Omaha"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Omaha, NE (US)",
+      "city": "Omaha",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "<p>We are a Google Developer Group meetup that focuses in Android for beginners to experts with an emphasis on beginners! Our goal with this group is to build a vibrant Android community that is diverse and supportive of everyone included. We will start every meetup with some socializing followed by a quick beginner level topic so we can help each other get started and build our skills. Following that, we will have a break and then a speaker from the community will have an advanced Android talk to so we can take our skills to the next level! Join us as we show Omaha how incredible and supportive the Android community is. See you there!</p><p>Please contact the GDG organizers if you would like to start meeting on other Google topics.</p><p>We also have a slack!</p><a href=\"https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ\">https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ</a><p>Disclaimer: GDG Omaha is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a></p>",
+      "id": 940,
+      "state": "NE",
+      "timezone": "America/Chicago",
+      "title": "GDG Omaha",
+      "relative_url": "/gdg-omaha/",
+      "url": "https://gdg.community.dev/gdg-omaha/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 34120,
+    "start_date": "2020-12-08T17:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-14/",
+    "description_short": "Join us to learn about Android and to meet other Android Developers. There will be a talk at 6:00pm. Will post link to zoom shortly before the event.\n\nAgenda:\n\n5:30pm Socialize\n\n6:00pm Android Talk\n\n7:00pm Happy hour\n\nFind us on slack (https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ)\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Remote Monthly Meeting - Android Topics TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-14/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Omaha"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Omaha, NE (US)",
+      "city": "Omaha",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "<p>We are a Google Developer Group meetup that focuses in Android for beginners to experts with an emphasis on beginners! Our goal with this group is to build a vibrant Android community that is diverse and supportive of everyone included. We will start every meetup with some socializing followed by a quick beginner level topic so we can help each other get started and build our skills. Following that, we will have a break and then a speaker from the community will have an advanced Android talk to so we can take our skills to the next level! Join us as we show Omaha how incredible and supportive the Android community is. See you there!</p><p>Please contact the GDG organizers if you would like to start meeting on other Google topics.</p><p>We also have a slack!</p><a href=\"https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ\">https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ</a><p>Disclaimer: GDG Omaha is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a></p>",
+      "id": 940,
+      "state": "NE",
+      "timezone": "America/Chicago",
+      "title": "GDG Omaha",
+      "relative_url": "/gdg-omaha/",
+      "url": "https://gdg.community.dev/gdg-omaha/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 32170,
+    "start_date": "2020-12-08T17:30:00-06:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-1/",
+    "description_short": "Join us to learn about Android and to meet other Android Developers. There will be a talk at 6:00pm\n\nAgenda:\n\n5:30pm Socialize\n\n6:00pm Android Talk\n\n7:00pm Happy hour\n\nFind us on slack (https://join.slack.com/t/gdgomaha/shared_invite/enQtNzA5MDMzOTUzNjk4LTQxODk4ZDE3ODFkMDI2YzgyZmYwN2Q2Y2E1NGY4NjM5YWY5ZDczNjlkNGVmYzA1Y2FmNmIyYmM5MjA0NDhiOGQ)\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Remote Monthly Meeting - Android Topics TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-omaha-presents-remote-monthly-meeting-android-topics-tbd-1/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Omaha"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: Women Techmakers Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 967,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "Women Techmakers Fresno",
+      "relative_url": "/women-techmakers-fresno/",
+      "url": "https://gdg.community.dev/women-techmakers-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 22927,
+    "start_date": "2020-12-08T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-women-techmakers-fresno-presents-gdgwtm-monthly-meetup-12/",
+    "description_short": "A Monthly Meetup - GDG and WTM Fresno\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "GDG/WTM Monthly Meetup",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-women-techmakers-fresno-presents-gdgwtm-monthly-meetup-12/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Fresno, CA (US)",
+      "city": "Fresno",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Fresno is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1038,
+      "state": "CA",
+      "timezone": "America/Los_Angeles",
+      "title": "GDG Fresno",
+      "relative_url": "/gdg-fresno/",
+      "url": "https://gdg.community.dev/gdg-fresno/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 21662,
+    "start_date": "2020-12-08T18:00:00-08:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-fresno-google-developer-group-presents-gdg-monthly-meetup-11/",
+    "description_short": "TBA\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "GDG Monthly Meetup",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-fresno-google-developer-group-presents-gdg-monthly-meetup-11/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Fresno"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Phoenix, AZ (US)",
+      "city": "Phoenix",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Phoenix is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 987,
+      "state": "AZ",
+      "timezone": "America/Phoenix",
+      "title": "GDG Phoenix",
+      "relative_url": "/gdg-phoenix/",
+      "url": "https://gdg.community.dev/gdg-phoenix/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 32517,
+    "start_date": "2020-12-09T16:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-phoenix-presents-phx-android-monthly-meeting-8/",
+    "description_short": "Monthly meeting placeholder. We are officially moving to a virtual format, mostly based on social discussion. We will continue to gather community feedback on how to coordinate our local community going forward. Meeting link will be provided here and twitter before the meeting time. (https://twitter.com/phxandroid)\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Phx Android Monthly Meeting",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v2_L0nLvE2.png"
+    },
+    "relative_url": "/events/details/google-gdg-phoenix-presents-phx-android-monthly-meeting-8/",
+    "event_type_title": "Speaker Session/ Tech Talk - Virtual",
+    "city": "Phoenix"
+  },
+  {
+    "chapter": {
+      "chapter_location": "South Jordan, UT (US)",
+      "city": "South Jordan",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Salt Lake is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 1035,
+      "state": "UT",
+      "timezone": "America/Denver",
+      "title": "GDG Salt Lake",
+      "relative_url": "/gdg-salt-lake/",
+      "url": "https://gdg.community.dev/gdg-salt-lake/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 12180,
+    "start_date": "2020-12-09T18:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-presents-canceled-pending-covid-19-tbd-8/",
+    "description_short": "We're on hiatus for the foreseeable future, based on state and CDC guidelines: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/mass-gatherings-ready-for-covid-19.html\n\nWe'll serve a meal provided by our sponsor, 1-800 Contacts, at 6:30 P.M., the talk will start at 7 P.M.\n\nFood:  \nTBD\n\nSpeaker:  \nTBD\n\nThe Google Development Group Salt Lake is sponsored by Google, Inc. and the meeti",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "[Canceled pending COVID-19] TBD",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-salt-lake-presents-canceled-pending-covid-19-tbd-8/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "South Jordan"
+  },
+  {
+    "chapter": {
+      "chapter_location": "Phoenix, AZ (US)",
+      "city": "Phoenix",
+      "country": "US",
+      "country_name": "United States of America",
+      "description": "Disclaimer: GDG Phoenix is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit <a href=\"https://developers.google.com/community/gdg/\">https://developers.google.com/community/gdg/</a>",
+      "id": 987,
+      "state": "AZ",
+      "timezone": "America/Phoenix",
+      "title": "GDG Phoenix",
+      "relative_url": "/gdg-phoenix/",
+      "url": "https://gdg.community.dev/gdg-phoenix/"
+    },
+    "video_url": null,
+    "picture": {},
+    "id": 22441,
+    "start_date": "2020-12-09T19:00:00-07:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-phoenix-phx-android-presents-phx-android-monthly-meeting-9/",
+    "description_short": "Monthly meeting placeholder. Details will be entered before the meeting.\n",
+    "tags": [],
+    "result_type": "upcoming_event",
+    "title": "Phx Android Monthly Meeting",
+    "event_type_logo": {
+      "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "thumbnail_format": "auto",
+      "thumbnail_height": 200,
+      "thumbnail_width": 200,
+      "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png",
+      "path": "event_banners/GDG-Bevy-EventThumbnail-v3_RJsSdMz.png"
+    },
+    "relative_url": "/events/details/google-gdg-phoenix-phx-android-presents-phx-android-monthly-meeting-9/",
+    "event_type_title": "Speaker Session/ Tech Talk - In-person",
+    "city": "Phoenix"
+  }
+]
