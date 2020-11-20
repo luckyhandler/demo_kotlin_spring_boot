@@ -7,18 +7,20 @@ import de.handler.gdg.data.ResultType
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.core.io.ResourceLoader
 import org.springframework.web.bind.annotation.GetMapping
+import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 
 
 @RestController
+@RequestMapping("/v1/api/gdgs")
 class GdgController {
     private val gson = Gson()
 
     @Autowired
     lateinit var resourceLoader: ResourceLoader
 
-    @GetMapping("/gdgs")
     fun gdgs(): List<GdgEntity?> = loadGdgs()
+    @GetMapping
 
     private fun loadGdgs(): List<GdgEntity?> {
         val file = resourceLoader.getResource("classpath:static/gdgs.json").file
