@@ -11,23 +11,19 @@ import java.util.*
 
 @Service
 class GdgService {
-    private val gson = Gson()
-    private val gdgs by lazy { loadGdgs() }
-
     @Autowired
     lateinit var resourceLoader: ResourceLoader
 
-    fun gdgs(): List<GdgEntity?> = gdgs
+    private val gson = Gson()
+    private val gdgs by lazy { loadGdgs() }
 
-    fun gdg(id: String): GdgEntity? = gdgs.firstOrNull { it?.id == id }
+    fun gdgs(): List<GdgEntity?> = gdgs.toList()
 
-    private fun loadGdgs(): List<GdgEntity?> {
+    private fun loadGdgs(): List<GdgEntity> {
         val file = resourceLoader.getResource("classpath:static/gdgs.json").file
         val json = file.readText()
-        val type = object : TypeToken<List<GdgEntity?>?>() {}.type
-        val gdgs = gson.fromJson<List<GdgEntity>>(json, type)
-        return gdgs
-            .orEmpty()
+        val type = object : TypeToken<List<GdgEntity>>() {}.type
+        return gson.fromJson<List<GdgEntity>>(json, type)
             .filter { it.resultType == ResultType.CHAPTER }
             .map { it.apply { id = UUID.randomUUID().toString() } }
     }
